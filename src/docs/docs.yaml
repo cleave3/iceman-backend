@@ -13,7 +13,7 @@ tags:
     description: Manage User Authentication and Profile
   - name: Requests
     description: Manage Travel Requests
-host: localhost:3000
+host: iceman-backend-staging.herokuapp.com
 basePath: /api/v1
 paths:
   /auth/profile:
